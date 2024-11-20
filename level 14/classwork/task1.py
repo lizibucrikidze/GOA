@@ -1,0 +1,15 @@
+prprint(67<89)#Tous
+print(67>43)#Tous
+int(45<23)#Fols
+print(6<5)#fols
+print(45==45)#tous
+print(46==76)#Fols
+print(87<67)#Fols
+print(76==76)#TOUS
+print(43>12)#Tous
+print(76<89)#Tous
+print(54>98)#Fols
+print(98==8)#Fols
+print(67>54)#Tous
+print(5=5)#Tous
+print(67<57)#Fols
