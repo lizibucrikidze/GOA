@@ -1,0 +1,10 @@
+num1=10+10
+num2=9-9
+num3=8*8
+num4=7/7
+num5=6==6
+print(type(num1))
+print(type(num2))
+print(type(num3))
+print(type(num4))
+print(type(num5))
