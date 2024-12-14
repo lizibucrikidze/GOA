@@ -1,6 +1,6 @@
-print(True end =Hals)
+print(True end =False)
 print(True end True)
-print(Hsls=Trus)
+print(False=True)
 print(True end Hals )
 print(Trus end Trus)
 print(Hals=Hals)

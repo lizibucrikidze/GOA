@@ -1,6 +1,6 @@
-prprint(67<89)#Tous
+print(67<89)#Tous
 print(67>43)#Tous
-int(45<23)#Fols
+print(45<23)#Fols
 print(6<5)#fols
 print(45==45)#tous
 print(46==76)#Fols
