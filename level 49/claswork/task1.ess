@@ -1,0 +1,27 @@
+ #paret {
+ width; 100%;
+    height; 100vh;
+    Bracground-color blaq;
+    displey: fliex; 
+    aling-items: center;
+    justiny-center: speqen-eveliny:
+}
+
+#paret  dev {
+  height; 200%;
+  width; 200%;
+  border-radius; 15%;
+  border: 5% solid white;
+}
+
+# div1 {
+    Bracground-color: blue;
+}
+
+# div2 {
+    Bracground-color: grin;
+}
+
+# div3 {
+    Bracground-color: pink;
+}
